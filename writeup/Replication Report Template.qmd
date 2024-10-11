@@ -1,6 +1,6 @@
 ---
-title: "Replication of Study X by Sample & Sample (20xx, Psychological Science)"
-author: "Replication Author[s] (contact information)"
+title: "Replication of Fluency and the detection of misleading questions: Low processing fluency attenuates the Moses Illusion (Experiment 1) by Song & Schwarz (2008, Social Cognition)"
+author: "Katie Allen (k7allen@ucsd.edu), Jae Kwon (jwkwon@ucsd.edu), Ashley Monteiro (asmonteiro@ucsd.edu), & Kosta Boskovic (koboskovic@ucsd.edu)"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 format:
   html:
@@ -12,7 +12,7 @@ format:
 
 ## Introduction
 
-[No abstract is needed.]  Each replication project will have a straightforward, no frills report of the study and results.  These reports will be publicly available as supplementary material for the aggregate report(s) of the project as a whole.  Also, to maximize project integrity, the intro and methods will be written and critiqued in advance of data collection.  Introductions can be just 1-2 paragraphs clarifying the main idea of the original study, the target finding for replication, and any other essential information.  It will NOT have a literature review -- that is in the original publication. You can write both the introduction and the methods in past tense.  
+The Moses Illusion is a classic example of the metacognitive effects of fluency. Fluency has been a strong interest of mine since undergrad, and its applications relate to my research interests in understanding how we remember and believe misinformation. Until now, I have only learned methods of inducing fluency through repetition. I chose this paper (specifically experiment 1) because it instead induces fluency (i.e., ease of processing) through visual representation (e.g., easy vs. hard to read text fonts), and it can be applied to online misinformation studies in my future research endeavors.   
 
 
 ## Methods
@@ -27,11 +27,12 @@ Planned sample size and/or termination rule, sampling frame, known demographics 
 
 ### Materials
 
-All materials - can quote directly from original article - just put the text in quotations and note that this was followed precisely.  Or, quote directly and just point out exceptions to what was described in the original article.
+Stimuli. The stimuli set will consist of 2 sets each containing two questions written in two contrasting fonts. One question will contain a distortion while the other will not. "Which country is famous for cuckoo clocks, chocolate, banks, and pocket knives?" (A: Switzerland) represents the undistorted version, while "How many animals of each kind did Moses take on the Ark?" (A: can’t say) reflects the distorted version. 
 
 ### Procedure	
 
-Can quote directly from original article - just put the text in quotations and note that this was followed precisely.  Or, quote directly and just point out exceptions to what was described in the original article.
+This experiment will be conducted online through a Qualtrics survey on Prolific. Participants will be randomly assigned to the easy vs hard to read conditions. They will either see the easy to read text font versions of the two questions or the hard to read versions of the trivia questions. They will also be informed that some of the questions they encounter might not have right answers and encouraged to answer by selecting ‘can’t say’ when this happens.
+A challenge of this replication is that common knowledge changes over time. I am not sure whether 18-25 year-olds today will know the correct answers to these questions. We might have to consider using questions tailored to the knowledge of young adults today and come up with our own distortion. At the very minimum, we might have to pilot the questions to gauge knowledge in young adults. Another issue might be determining sample size. In this experiment, the researchers used 32 undergraduates. We might consider running a priori power analysis to determine proper sample size. From what I can tell, the researchers did not report an effect size, so we will have to estimate what we might think the effect size would be here.
 
 ### Analysis Plan
 
